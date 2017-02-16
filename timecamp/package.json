@@ -1,0 +1,23 @@
+{
+  "name": "timecamp",
+  "version": "1.0.0",
+  "description": "timecamp",
+  "main": "index.js",
+  "author": "Justin Cherniak <justin@justin-c.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.timecamp.com/app",
+    "serviceName": "Timecamp",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
